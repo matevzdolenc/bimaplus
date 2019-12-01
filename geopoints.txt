@@ -1,0 +1,24 @@
+23
+46.2309234,15.2659932,Matevž,Ljubljana,Slovenia
+32.889199,13.312489,Sara,Tajura,Libya
+-25.4284,-49.2733,Marina,Curitiba,Brasil
+-26.3051,-48.8461,Diogo,Joinville,Brasil
+11.255814,43.769562,Giulia,Florence,Italy
+13.33561,38.13205,Alessandro,Palermo,Italy
+119.8174325661,31.3407043818,Liz,Yixin,China
+26.2183,78.1828,Vikas,Gwalior,India
+13.6494398,45.9713898,Mija,Solkan,Slovenia
+41.55032,-8.42005,André,Braga,Portugal
+41.327953,19.819025,Orjola,Tirana,Albania
+44.8206,20.4622,Jelena,Belgrade,Serbia
+-27.5935,-48.55854,Bianca,Florianópolis,Brasil
+-86.11869,11.902201,Camilo,Masaya,Nicaragua
+-100.316116,25.686613,Ana,Monterrey,Mexico
+-74.081749,4.6097102,Cristian,Bogota,Colombia
+-23.533773,-46.62529,Lucas,São Paulo,Brazil
+25.9135914,93.7283707,Rebekali,Dimapur,India
+-15.7801,-47.9292,João,Brasilia,Brazil
+-22.90278,-43.2075,Roger,Rio de Janeiro,Brazil
+135.083786,48.4827118,Evgenii,Khabarovsk,Russia
+-31.428179,-64.184686,Vanesa,Cordoba,Argentina
+51.116148,17.004756,Ania,Wrocław,Polska

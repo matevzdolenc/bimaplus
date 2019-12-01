@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><Document><name>geopoints.txt</name><Folder><name>Points</name><Placemark><name>Matevž | Ljubljana, Slovenia
+</name><Point><coordinates>15.2659932,46.2309234,0</coordinates></Point></Placemark><Placemark><name>Sara | Tajura, Libya
+</name><Point><coordinates>13.312489,32.889199,0</coordinates></Point></Placemark><Placemark><name>Marina | Curitiba, Brasil
+</name><Point><coordinates>-49.2733,-25.4284,0</coordinates></Point></Placemark><Placemark><name>Diogo | Joinville, Brasil
+</name><Point><coordinates>-48.8461,-26.3051,0</coordinates></Point></Placemark><Placemark><name>Giulia | Florence, Italy
+</name><Point><coordinates>43.769562,11.255814,0</coordinates></Point></Placemark><Placemark><name>Alessandro | Palermo, Italy
+</name><Point><coordinates>38.13205,13.33561,0</coordinates></Point></Placemark><Placemark><name>Liz | Yixin, China
+</name><Point><coordinates>31.3407043818,119.8174325661,0</coordinates></Point></Placemark><Placemark><name>Vikas | Gwalior, India
+</name><Point><coordinates>78.1828,26.2183,0</coordinates></Point></Placemark><Placemark><name>Mija | Solkan, Slovenia
+</name><Point><coordinates>45.9713898,13.6494398,0</coordinates></Point></Placemark><Placemark><name>André | Braga, Portugal
+</name><Point><coordinates>-8.42005,41.55032,0</coordinates></Point></Placemark><Placemark><name>Orjola | Tirana, Albania
+</name><Point><coordinates>19.819025,41.327953,0</coordinates></Point></Placemark><Placemark><name>Jelena | Belgrade, Serbia
+</name><Point><coordinates>20.4622,44.8206,0</coordinates></Point></Placemark><Placemark><name>Bianca | Florianópolis, Brasil
+</name><Point><coordinates>-48.55854,-27.5935,0</coordinates></Point></Placemark><Placemark><name>Camilo | Masaya, Nicaragua
+</name><Point><coordinates>11.902201,-86.11869,0</coordinates></Point></Placemark><Placemark><name>Ana | Monterrey, Mexico
+</name><Point><coordinates>25.686613,-100.316116,0</coordinates></Point></Placemark><Placemark><name>Cristian | Bogota, Colombia
+</name><Point><coordinates>4.6097102,-74.081749,0</coordinates></Point></Placemark><Placemark><name>Lucas | São Paulo, Brazil
+</name><Point><coordinates>-46.62529,-23.533773,0</coordinates></Point></Placemark><Placemark><name>Rebekali | Dimapur, India
+</name><Point><coordinates>93.7283707,25.9135914,0</coordinates></Point></Placemark><Placemark><name>João | Brasilia, Brazil
+</name><Point><coordinates>-47.9292,-15.7801,0</coordinates></Point></Placemark><Placemark><name>Roger | Rio de Janeiro, Brazil
+</name><Point><coordinates>-43.2075,-22.90278,0</coordinates></Point></Placemark><Placemark><name>Evgenii | Khabarovsk, Russia
+</name><Point><coordinates>48.4827118,135.083786,0</coordinates></Point></Placemark><Placemark><name>Vanesa | Cordoba, Argentina
+</name><Point><coordinates>-64.184686,-31.428179,0</coordinates></Point></Placemark><Placemark><name>Ania | Wrocław, Polska
+</name><Point><coordinates>17.004756,51.116148,0</coordinates></Point></Placemark></Folder></Document></kml>
