@@ -1,6 +1,10 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#
+# Info: fidapm37 matrix ... http://math.nist.gov/MatrixMarket/data/SPARSKIT/fidap/fidapm37.html
+#
+
 from time import process_time
 
 import numpy as np
