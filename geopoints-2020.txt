@@ -1,0 +1,25 @@
+24
+46.2309234,15.2659932,Matevž,Ljubljana,Slovenia
+51.404343,35.715298,Mohammad Hassan Meshkini,Tehran,Iran
+58.758408,34.350598,Iraj Esmaeili,Beydokht,Iran
+49.5891,37.2682,Sajedeh Naghavi,Rasht,Iran
+19.48972,40.46667,Ersilio,Vlore,Albania
+46.05108,14.50513,Andraž,Ljubljana,Slovenia
+48.2623,22.5129,Angela,Botucatu,Brazil
+-22.9874877,-43.2071121,Tassiane,Rio de Janeiro,Brazil
+20.67675,-101.35628,José Luis ,Irapuato,Mexico
+37.7702928753015,-25.6584076891187,Tiago,Ponta Delgada,Portugal
+56.8381372630503,60.6042854989005,Ekaterina,Yekaterinburg,Russia
+74.329376,31.582045,Muhammad Shoaib,Lahore ,Pakistan
+51.404343,35.715298,Mahya Nazari,Tehran,Iran
+35.882916,33.650192,AbdurRahman,Manara,Lebanon
+35.88557,33.8665,Youssef Almezeraani,Qaa El Rim,Lebanon
+30.104221,31.372451,Aly Ahmed,Cairo,Egypt
+28.2293,-25.7479,Lombe,Pretoria,South Africa
+-23.2119818156309,-46.8877451597654,Aline Heleno,Sao Paulo,Brazil
+29.846720032493,31.3389272013503,Mohamed Safwat,Cairo,Egypt
+44.892011,40.377669,Nigar Ibrahimzade,Baku,Azerbaijan
+50.9708698279804,35.8617023834452,Sara Amiri,Karaj,Iran
+7.429504,10.609319,Lot Kaduma,Kaduna,Nigeria
+40.9831570581192,28.8766109989562,Aydan Aghabayli,Istanbul,Turkey
+49.583057,37.280834,Aida Mirniazmandan,Rasht,Iran

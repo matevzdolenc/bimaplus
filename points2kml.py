@@ -17,18 +17,18 @@ countries = []
 
 print("Reading data: ", end='')
 for i in range(n):
-    vrstica = dat.readline()
-    besede = vrstica.split(",")
-    lats.append(besede[0])
-    longs.append(besede[1])
-    names.append(besede[2])
-    cities.append(besede[3])
-    countries.append(besede[4])
+    line = dat.readline()
+    words = line.split(",")
+    lats.append(words[0])
+    longs.append(words[1])
+    names.append(words[2])
+    cities.append(words[3])
+    countries.append(words[4])
     print(".", end='')
 
 print()
 
-# Izpis v KML datoteko
+# Output to KML file format
 print()
 print("Output file:", sys.argv[1]+".kml")
 print("Writing data: ", end='')
