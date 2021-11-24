@@ -1,0 +1,30 @@
+29
+46.0499803,14.5068602,Matevž Dolenc,Ljubljana,Slovenia
+-30.033056,-51.23,Fernanda Benezra,Porto Alegre,Brazil
+4.699111,-74.1214952,Sebastian Arias,Bogotá,Colombia
+33.2209265,43.6847595,Aws Abdulfattah,Baghdad,Iraq
+36.86012,10.19337,sarra hadji,Ariana,Tunisia
+60.08187,30.345726,Artur Kuzminykh,Saint Petersburg,Russia
+-2.19616,-79.88621,Gabriela Pineda,Guayaquil,Ecuador
+27.46609,89.64191,Dhanjit Singer,Thimphu,Bhutan
+33.6844,73.0479,Haris Rafiq,Islamabad,Pakistan
+7.8372,3.9347,Daniel Osuala,Oyo,Nigeria
+-12.046374,-77.042793,Frank Chuquin,Lima,Perú
+6.45407,3.39467,Adegun Ibironke,Lagos,Nigeria
+52.302,13.2356,Mohannad Mira,Giza,Egypt
+41.30062,-7.74413,Rita Nogueira,Vila Real,Portugal
+9.952995,-84.121922,Mauricio Morales,San José,Costa Rica
+-0.180653,-78.467834,Verónica Andrade,Quito,Ecuador
+45.464664,9.18854,Juan Montenegro,Milan,Italy
+43.548473,10.310567,Angelica Bigazzi ,Livorno,Italy
+6.4550575,3.3941795,Victoria Ikede,Lagos,Nigeria
+-15.78742,-47.903064,Mariana Ataide,Brasília,Brazil
+38.7224,-9.3969,Iuri Rodrigues,Lisbon,Portugal
+41.117143,16.871871,Giancarlo de Marco,Bari,Italy
+47.49835,19.04045,Muhammad Irfan Ghani,Budapest ,Hungary
+51.4381 5.4752,5.4697225,Shiva Kamizi,Eindhoven ,Netherlands
+27.4713546,89.6336729,Tshewang Dorji,Thimphu,Bhutan
+4.061536,9.786072,Azinwie Zama Ambe,Douala,Cameroon
+37.18817,-3.60667,Julio Salaberri,Granada,Spain
+36.8456,54.4393,Mahla Kiaie,Gorgan,Iran
+51.205553,4.905588,Michiel Bienens,Lichtaart,Belgium
