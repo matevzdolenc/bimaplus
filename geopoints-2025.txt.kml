@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>geopoints-2025.txt</name><Folder><name>Points</name><Placemark><name>Matevž | Ljubljana, Slovenia
+</name><Point><coordinates>14.5069289,46.0500268,0</coordinates></Point></Placemark><Placemark><name>Leonardo | Queretaro, Mexico
+</name><Point><coordinates>-99.988064330335,20.3978842697858,0</coordinates></Point></Placemark><Placemark><name>Martin | Tortuguitas, Argentina
+</name><Point><coordinates>-58.76667,-34.46667,0</coordinates></Point></Placemark><Placemark><name>Paul | Guimaraes, Portugal
+</name><Point><coordinates>-8.2943611,41.4394167,0</coordinates></Point></Placemark><Placemark><name>Paula | Brasília, Brazil
+</name><Point><coordinates>47.88278,15.79389,0</coordinates></Point></Placemark><Placemark><name>Vilmante | Vilnius, Lithuania
+</name><Point><coordinates>25.2798,54.68916,0</coordinates></Point></Placemark><Placemark><name>Andrea | Asunción, Paraguay
+</name><Point><coordinates>–57.5759,–25.2637,0</coordinates></Point></Placemark><Placemark><name>Asif | Rawalpindi, Pakistan
+</name><Point><coordinates>73.0169,33.5651,0</coordinates></Point></Placemark><Placemark><name>Deniz | Ankara, Turkiye
+</name><Point><coordinates>32.85785,39.91335,0</coordinates></Point></Placemark><Placemark><name>Weronika | Warsaw, Poland
+</name><Point><coordinates>21.011667,52.229722,0</coordinates></Point></Placemark><Placemark><name>Suzana | Osasco, Brazil
+</name><Point><coordinates>-46.7917,-23.5325,0</coordinates></Point></Placemark></Folder></Document></kml>

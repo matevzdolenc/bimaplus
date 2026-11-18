@@ -1,0 +1,30 @@
+29
+46.0500268,14.5069289,Matevž,Ljubljana,Slovenia
+-11.882027,-77.075634,Christopher,Lima,Peru
+50.671062,17.926126,Olivia Tunğ,Opole,Poland
+-1.062772, ,-80.46593,Emily,Portoviejo,Ecuador
+6.245,-75.57151,Daniela,Medellin,Colombia
+29.5918,52.5837,Alireza,Shiraz,Iran
+10.46538,-73.2531,Kelly,Valledupar,Colombia
+-22.9211512779395,-43.2219152171532,Camila Carmo,Rio de Janeiro,Brazil
+44.20169,17.90397,Amna,Zenica,Bosna i Hercegovina
+53.683,23.831,Irina ,Grodno,Belarus
+24.8608,67.0104,Huma,Karachi,Pakistan
+-3.7319,-38.5267,Bruno,Fortaleza,Brazil
+-5.07517099051335,-42.789893772443,Ducarmo,Teresina,Brazil
+-27.5968578,-48.5468118,Vitória,Florianópolis,Brazil
+38.423733,27.142826,Fatih Eraslan,Izmir,Turkey
+-12.0880169671397,-77.0346533610161,Martin,Lima,Perú
+3.848,11.5021,Jules Gaetan,Yaoundé,Cameroon
+38.423733,27.142826,Yasemin Demirkol,Izmir,Turkey
+-30.0389036199406,-51.2209307185391,Alisson,Porto Alegre,Brazil
+38.767583,-9.108444,Sofia,Lisbon,Portugal
+-18.9136,-48.2666,Ricardo,Uberlandia,Brazil
+-23.5505,-46.6339,Paola,Sao Paulo,Brazil
+4.42858624036792,-75.1923269956581,Viviana,Ibagué,Colombia
+21.495292,-104.886319,Arturo,Tepic,México
+33.8583729,73.7654367,Ali Niaz,Rawalakot,Pakistan
+-8.05389,-34.900002,Paolla,Recife,Brazil
+-12.926335399098,-38.3175226926354,Andre Ribeiro,Salvador,Brazil
+38.7667,-9.1232,Leonor,Lisbon,Portugal
+36.75,3.05,Walid,Algiers,Algeria

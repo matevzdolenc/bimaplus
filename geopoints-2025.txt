@@ -1,0 +1,12 @@
+11
+46.0500268,14.5069289,Matevž,Ljubljana,Slovenia
+20.3978842697858,-99.988064330335,Leonardo,Queretaro,Mexico
+-34.46667,-58.76667,Martin,Tortuguitas,Argentina
+41.4394167,-8.2943611,Paul,Guimaraes,Portugal
+15.79389,47.88278,Paula,Brasília,Brazil
+54.68916,25.2798,Vilmante,Vilnius,Lithuania
+–25.2637,–57.5759,Andrea,Asunción,Paraguay
+33.5651,73.0169,Asif,Rawalpindi,Pakistan
+39.91335,32.85785,Deniz,Ankara,Turkiye
+52.229722,21.011667,Weronika,Warsaw,Poland
+-23.5325,-46.7917,Suzana,Osasco,Brazil
